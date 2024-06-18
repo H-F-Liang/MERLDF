@@ -1,0 +1,104 @@
+烦躁不安 True 发烧 True 皮疹 True ; 疱疹 True  精神萎靡 True  咳嗽 False  呕吐 False  厌食 False ;小儿手足口病
+烦躁不安 True 发烧 True 稀便 True ; 厌食 True ;小儿腹泻
+鼻塞 True 打喷嚏 True 呼吸困难 True ; 揉鼻子 True ;过敏性鼻炎
+疱疹 True 皮疹 True ;;小儿手足口病
+疱疹 True 咳嗽 True 烦躁不安 True ; 发烧 False ;小儿手足口病
+稀便 True 揉眼睛 True 发烧 True 皮疹 True ; 精神萎靡 False ;小儿腹泻
+蛋花样便 True 稀便 True ; 精神萎靡 False  尿少 False ;小儿腹泻
+吐泡泡 True 咳嗽 True 鼻塞 True 咳痰 True ;;上呼吸道感染
+蛋花样便 True 呕吐 True 稀便 True 发烧 True ; 尿少 True  烦躁不安 True  精神萎靡 False ;小儿腹泻
+咳嗽 True 发烧 True ; 精神萎靡 False  呼吸困难 False ;上呼吸道感染
+疱疹 True 呕吐 True 发烧 True 皮疹 True ; 厌食 True ;小儿手足口病
+腹痛 True 呕吐 True 发烧 True ; 腹胀 True ;小儿腹泻
+咳嗽 True 抽搐 True 流涕 True ; 过敏 True ;过敏性鼻炎
+鼻塞 True 打喷嚏 True ; 过敏 True ;过敏性鼻炎
+疱疹 True 咳嗽 True 鼻塞 True 打喷嚏 True 咳痰 True ; 发烧 True ;肺炎
+呕吐 True 肚子咕噜叫 True 发烧 True 稀便 True ; 厌食 True ;小儿腹泻
+咳嗽 True 流涕 True 吐泡泡 True 打喷嚏 True 呼吸困难 True ; 呕吐 True  鼻塞 True ;肺炎
+精神萎靡 True 发烧 True 厌食 True ; 疱疹 True  淋巴结肿大 True  皮疹 False ;小儿手足口病
+烦躁不安 True 呕吐 True 流涕 True ; 鼻塞 True  发烧 False  肺部湿啰音 False ;上呼吸道感染
+咳嗽 True 咳痰 True ; 肺部湿啰音 True  呼吸困难 True ;肺炎
+烦躁不安 True 发烧 True 流口水 True 稀便 True ; 精神萎靡 True  皮疹 True  厌食 True ;小儿手足口病
+疱疹 True 发烧 True 皮疹 True ; 流口水 True  精神萎靡 False  厌食 False ;小儿手足口病
+咽部不适 True 咳嗽 True 过敏 True 流涕 True ; 揉鼻子 True ;过敏性鼻炎
+咽部不适 True 咳嗽 True 呕吐 True 发烧 True 咳痰 True ; 肺部阴影 True  精神萎靡 False ;肺炎
+稀便 True 绿便 True ; 蛋花样便 True  呕吐 True  抽搐 True  精神萎靡 False  发烧 False ;小儿腹泻
+咳嗽 True 呕吐 True 鼻塞 True 打喷嚏 True 咳痰 True ; 呼吸困难 True ;肺炎
+咳嗽 True 鼻塞 True 发烧 True ; 呼吸困难 True  流涕 False ;上呼吸道感染
+稀便 True 发烧 True 皮疹 True ;;小儿腹泻
+精神萎靡 True 呕吐 True 稀便 True 厌食 True ;;小儿腹泻
+;;上呼吸道感染
+咳嗽 True 打喷嚏 True 流涕 True ; 呕吐 True  咳痰 True  发烧 False ;上呼吸道感染
+咳嗽 True 流涕 True 发烧 True 打喷嚏 True ;;上呼吸道感染
+打喷嚏 True 稀便 True 流涕 True ; 咳嗽 True  呕吐 True  烦躁不安 True ;小儿腹泻
+咳嗽 True 咳痰 True 流涕 True ; 鼻塞 True  精神萎靡 False  发烧 False  厌食 False ;过敏性鼻炎
+咳嗽 True 发烧 True 咳痰 True ; 烦躁不安 True  鼻塞 True  肺部湿啰音 True  呕吐 True  稀便 True  打喷嚏 True ;肺炎
+咳嗽 True ; 呕吐 True ;上呼吸道感染
+鼻塞 True 发烧 True 流涕 True 咳嗽 True 打喷嚏 True 咳痰 True ; 烦躁不安 True  呼吸困难 True ;肺炎
+咽部不适 True 咳嗽 True ; 流涕 True  鼻塞 True  咳痰 True  揉鼻子 True  呕吐 False ;过敏性鼻炎
+绿便 True 肚子咕噜叫 True 稀便 True 厌食 True 放屁 True ; 烦躁不安 True  腹胀 True ;小儿腹泻
+咳嗽 True 呕吐 True 鼻塞 True 烦躁不安 True 流涕 True ; 流口水 True  呼吸困难 True  精神萎靡 False ;肺炎
+咳嗽 True 鼻塞 True 发烧 True ; 流涕 True ;上呼吸道感染
+咳嗽 True 打喷嚏 True 咳痰 True 流涕 True ; 精神萎靡 True  发烧 True ;肺炎
+疱疹 True 咽部不适 True 发烧 True 皮疹 True ; 打喷嚏 True  流涕 True ;小儿手足口病
+咳嗽 True 发烧 True 流涕 True ;;肺炎
+咳嗽 True 鼻塞 True ; 过敏 True  精神萎靡 False  皮疹 False ;过敏性鼻炎
+精神萎靡 True 呕吐 True 发烧 True ;;小儿腹泻
+咳嗽 True ; 鼻塞 True  呼吸困难 True ;过敏性鼻炎
+疱疹 True 发烧 True 皮疹 True ; 厌食 True ;小儿手足口病
+皮疹 True 厌食 True ; 流口水 True  精神萎靡 False ;小儿手足口病
+咳嗽 True 烦躁不安 True 流涕 True ; 厌食 True  呼吸困难 True ;肺炎
+咳嗽 True 发烧 True ; 揉眼睛 True ;上呼吸道感染
+疱疹 True 皮疹 True ; 发烧 True ;小儿手足口病
+呕吐 True 发烧 True 咳痰 True 流涕 True ; 呼吸困难 True ;上呼吸道感染
+咳嗽 True 鼻塞 True 过敏 True 流涕 True ; 打喷嚏 True ;过敏性鼻炎
+咳嗽 True 肺部湿啰音 True 流涕 True ; 发烧 True ;肺炎
+疱疹 True 烦躁不安 True 皮疹 True 流涕 True 流口水 True 发烧 True ; 流鼻血 True  呼吸困难 True ;小儿手足口病
+发烧 True ; 咳嗽 True  咳痰 True  肺部阴影 True  厌食 False ;肺炎
+打喷嚏 True 揉鼻子 True ; 过敏 True  皮疹 True ;过敏性鼻炎
+鼻塞 True 流涕 True ; 揉眼睛 True  咳嗽 True  呼吸困难 True ;过敏性鼻炎
+揉眼睛 True 流涕 True 咽部不适 True ; 过敏 True ;过敏性鼻炎
+体重减轻 True 稀便 True ;;小儿腹泻
+呕吐 True 发烧 True 稀便 True ; 精神萎靡 True ;小儿腹泻
+咳嗽 True 咳痰 True ; 过敏 True  流涕 True ;过敏性鼻炎
+咳嗽 True 咳痰 True ;;上呼吸道感染
+咳嗽 True 咳痰 True ; 咽部不适 True  鼻塞 True ;肺炎
+揉眼睛 True 发烧 True 稀便 True ;;小儿腹泻
+疱疹 True 发烧 True ; 皮疹 True ;小儿手足口病
+烦躁不安 True 鼻塞 True 咳痰 True ; 呕吐 True  吐泡泡 True  厌食 True  精神萎靡 False ;肺炎
+咳嗽 True 烦躁不安 True 厌食 True 流涕 True ; 发烧 True ;上呼吸道感染
+疱疹 True 腹痛 True 发烧 True 流口水 True 皮疹 True ;;小儿手足口病
+咳嗽 True 呕吐 True 发烧 True 流涕 True ; 咽部不适 True  稀便 True ;小儿手足口病
+精神萎靡 True 呕吐 True 反胃 True 厌食 True ; 稀便 True ;小儿腹泻
+鼻塞 True ; 皮疹 True  精神萎靡 False ;过敏性鼻炎
+咳嗽 True 流涕 True ; 揉鼻子 True ;过敏性鼻炎
+咳嗽 True 咳痰 True ; 吐泡泡 True  发烧 False  流涕 False ;上呼吸道感染
+发烧 True 流涕 True ; 咽部不适 True  皮疹 True  稀便 True  厌食 True  咳嗽 False  呕吐 False ;小儿手足口病
+咳嗽 True ; 揉鼻子 True  鼻塞 False ;过敏性鼻炎
+咳嗽 True 流涕 True ; 盗汗 True  厌食 False ;上呼吸道感染
+疱疹 True 皮疹 True ; 精神萎靡 False  呕吐 False  发烧 False ;小儿手足口病
+稀便 True 盗汗 True ; 精神萎靡 True  烦躁不安 True  发烧 False ;小儿腹泻
+咳嗽 True 发烧 True ; 咽部不适 True  呼吸困难 True ;上呼吸道感染
+咳嗽 True 流涕 True ; 精神萎靡 False  发烧 False  咳痰 False ;上呼吸道感染
+呕吐 True 反胃 True 发烧 True ; 精神萎靡 False  厌食 False ;小儿腹泻
+精神萎靡 True 咳嗽 True 发烧 True 流涕 True ; 揉眼睛 True  烦躁不安 True ;上呼吸道感染
+烦躁不安 True 呕吐 True 反胃 True 稀便 True 厌食 True ;;小儿腹泻
+疱疹 True 烦躁不安 True 发烧 True 抽搐 True ; 厌食 True ;小儿手足口病
+精神萎靡 True 肚子咕噜叫 True 发烧 True 稀便 True ;;小儿腹泻
+咽部不适 True 咳嗽 True ; 肺部湿啰音 True ;肺炎
+鼻塞 True 打喷嚏 True ; 揉鼻子 True  呼吸困难 True ;过敏性鼻炎
+咳嗽 True 呕吐 True 发烧 True 流涕 True ;;上呼吸道感染
+烦躁不安 True 鼻塞 True 打喷嚏 True 揉鼻子 True ; 揉眼睛 True  皮疹 True  流鼻血 True ;过敏性鼻炎
+流涕 True ; 打喷嚏 True  咳嗽 False  发烧 False ;过敏性鼻炎
+疱疹 True 发烧 True ; 皮疹 True  精神萎靡 False ;小儿手足口病
+发烧 True 厌食 True ; 肺部湿啰音 True ;肺炎
+咳嗽 True 呕吐 True 发烧 True ; 呼吸困难 True ;肺炎
+咳嗽 True 喘气 True 咳痰 True ; 咽部不适 True ;上呼吸道感染
+咳嗽 True 烦躁不安 True 咳痰 True 流涕 True ; 呼吸困难 True  精神萎靡 False ;肺炎
+咳嗽 True 咳痰 True 流涕 True ; 咽部不适 True ;上呼吸道感染
+咳嗽 True 呼吸困难 True ; 呕吐 True  发烧 False ;上呼吸道感染
+咳嗽 True 鼻塞 True 打喷嚏 True 流涕 True ; 发烧 False  咳痰 False ;上呼吸道感染
+咳嗽 True 鼻塞 True 咳痰 True 流涕 True ; 烦躁不安 True ;过敏性鼻炎
+发烧 True 皮疹 True ; 精神萎靡 False  厌食 False ;小儿手足口病
+咳嗽 True 吐泡泡 True ; 烦躁不安 True  稀便 False ;肺炎
+咳嗽 True 发烧 True 咳痰 True 流涕 True ; 烦躁不安 True ;上呼吸道感染

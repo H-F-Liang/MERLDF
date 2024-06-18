@@ -1,0 +1,142 @@
+发热 True ; 中等度热 True  退热 True ;上呼吸道感染
+咳嗽 True 气管炎 True 低热 True 中等度热 True ; 精神软 True  发热 True  反复发热 True  支气管肺炎 True  有痰 True  细菌感染 False ;小儿支气管炎
+消化不良 True 稀便 True ; 便秘 True  屁 True ;小儿消化不良
+肺炎 True 腹泻 True ; 呕吐 False ;小儿消化不良
+发热 True 咳嗽 True 喷嚏 True 鼻流涕 True ; 普通感冒 True ;小儿支气管炎
+腹泻 True 稀便 True 肛门红肿 True ; 鼻流涕 True  发热 False  咳嗽 False ;小儿消化不良
+鼻塞 True 咳嗽 True ; 支气管炎 True  鼻流涕 True  喷嚏 True  有痰 True  沙哑 False  喘息 False ;小儿支气管炎
+肺炎 True 腹泻 True 稀便 True ; 绿便 True  鼻流涕 True  呕吐 False  腹胀 False ;小儿腹泻
+呕吐 True ; 稀便 True  咳嗽 True  干咳 True  咳痰 True  干呕 True  发热 False ;小儿消化不良
+腹泻 True ; 呕吐 True  稀便 True  厌食 True ;小儿腹泻
+咳嗽 True 鼻流涕 True 肺炎 True 发热 True 中等度热 True 退热 True 低热 True ; 四肢厥冷 True  出汗 True  沙哑 False  喘息 False ;小儿支气管炎
+腹泻 True ; 稀便 True  绿便 True  大便粘液 True  肠鸣音 True  血便 False  发热 False  呕吐 False ;小儿腹泻
+腹泻 True ;;小儿腹泻
+发热 True 痰鸣音 True ; 咳嗽 True  有痰 True  退热 False ;上呼吸道感染
+; 咳嗽 True  鼻流涕 True  病毒感染 True  普通感冒 True  有痰 True  鼻塞 True ;上呼吸道感染
+支气管肺炎 True ; 咳嗽 True  鼻流涕 True  发热 True  高热 True  普通感冒 True  有痰 True ;小儿支气管炎
+绿便 True 退热 True 发热 True 呕吐 True 低热 True ; 鼻流涕 True  厌食 True  普通感冒 False  咳嗽 False  鼻塞 False ;小儿消化不良
+喷嚏 True 鼻流涕 True ; 咳痰 True ;上呼吸道感染
+腹泻 True 绿便 True ; 稀便 True  屁 True  出汗 True  呕吐 False  哭闹 False ;小儿消化不良
+; 水样便 True  细菌感染 True  肠炎 True  血便 True ;小儿腹泻
+屁 True 普通感冒 True ; 腹泻 True  消化不良 True  稀便 True  咽喉不适 True  咳嗽 True  出汗 True ;小儿消化不良
+; 稀便 True  绿便 True  呕吐 True ;小儿消化不良
+普通感冒 True 咳嗽 True 支气管肺炎 True 咳痰 True ; 急性气管支气管炎 True  喘息 False  发热 False ;小儿支气管炎
+咽喉不适 True 发热 True 有痰 True ; 鼻流涕 True  中等度热 True  头痛 True  鼻塞 True  腹泻 False ;上呼吸道感染
+; 稀便 True  腹泻 True ;小儿腹泻
+水样便 True ; 发热 False  呕吐 False ;小儿腹泻
+大便酸臭 True 消化不良 True ; 屁 True  稀便 True  绿便 True  呕吐 True  腹泻 False ;小儿消化不良
+高热 True 扁桃体炎 True 发热 True 中等度热 True 反复发热 True 鼻流涕 True ; 腹部不适 True  病毒感染 True  咳嗽 False ;上呼吸道感染
+鼻流涕 True 咳嗽 True 发热 True 出汗 True 沙哑 True 有痰 True ; 粗糙呼吸音 True  鼻塞 False ;上呼吸道感染
+; 普通感冒 True  咳嗽 True  病毒感染 True  鼻塞 True ;上呼吸道感染
+腹痛 True 腹泻 True 呕吐 True ; 稀便 True  哭闹 True  屁 True  水样便 False  血便 False ;小儿消化不良
+咳嗽 True ; 干咳 True  有痰 True  鼻流涕 False ;小儿支气管炎
+腹泻 True 呕吐 True ; 水样便 True  高热 True ;小儿腹泻
+; 咳嗽 True  咳痰 True  鼻流涕 True  发热 True ;小儿支气管炎
+喷嚏 True 干咳 True 鼻流涕 True ; 咳嗽 True  鼻塞 True  上呼吸道感染 True  发热 False ;上呼吸道感染
+腹泻 True ; 绿便 True  稀便 True  消化不良 True  发热 True  水样便 True ;小儿腹泻
+头痛 True 发热 True 呕吐 True ; 普通感冒 True ;上呼吸道感染
+消化不良 True 腹泻 True 呕吐 True 稀便 True ; 普通感冒 True  沙哑 True  痰鸣音 True  有痰 True ;小儿腹泻
+有痰 True ; 咳嗽 True  沙哑 True  喘息 True ;小儿支气管炎
+咳嗽 True ; 呕吐 True  有痰 False ;小儿支气管炎
+腹泻 True 消化不良 True ; 呕吐 True  稀便 True ;小儿消化不良
+睡眠障碍 True ; 腹泻 True  稀便 True  屁 True  腹部不适 True  哭闹 False ;小儿消化不良
+呕吐 True 稀便 True ; 腹泻 True  精神软 True  消化不良 True  发热 False ;小儿消化不良
+腹泻 True 消化不良 True 水样便 True ;;小儿腹泻
+; 水样便 True  稀便 True ;小儿腹泻
+绿便 True ; 消化不良 True  稀便 True ;小儿消化不良
+绿便 True ; 稀便 True  腹泻 False  咳嗽 False  鼻流涕 False  发热 False ;小儿消化不良
+腹泻 True ;;小儿腹泻
+腹胀 True 腹泻 True ; 大便粘液 True  稀便 True  普通感冒 False ;小儿消化不良
+高热 True ; 发热 True  咳嗽 True  出汗 True  四肢厥冷 True  普通感冒 True  鼻流涕 False ;上呼吸道感染
+腹泻 True 咳嗽 True ; 出汗 True ;小儿支气管炎
+; 腹泻 True  稀便 True  血便 True  大便粘液 True  消化不良 True ;小儿腹泻
+普通感冒 True 咳嗽 True ; 支气管肺炎 True  睡眠障碍 True  有痰 True ;小儿支气管炎
+腹泻 True 水样便 True ; 呕吐 True  发热 True ;小儿腹泻
+咳嗽 True ; 腹泻 True  消化不良 True  呕吐 False ;上呼吸道感染
+咳嗽 True ; 有痰 True  鼻塞 True ;上呼吸道感染
+腹胀 True ; 呕吐 True  肠鸣音 True  屁 True  稀便 True  大便酸臭 True ;小儿消化不良
+普通感冒 True 咳嗽 True ; 支气管炎 True  痰鸣音 True  有痰 True  喘息 False ;小儿支气管炎
+腹泻 True 稀便 True ;;小儿腹泻
+便秘 True 腹泻 True ; 腹胀 False ;小儿腹泻
+水样便 True 反复发热 True ; 发热 True  退热 True  腹泻 False ;上呼吸道感染
+厌食 True 低热 True 发热 True ; 退热 True  口臭 True  消化不良 True  咽喉炎 True ;上呼吸道感染
+水样便 True 发热 True 病毒感染 True ; 腹泻 True ;小儿腹泻
+咳嗽 True ; 发热 True  退热 True  鼻流涕 True  喷嚏 True  咳痰 True  上呼吸道感染 True ;上呼吸道感染
+急性气管支气管炎 True ; 发热 True  咳嗽 True  咳痰 True  喷嚏 True  扁桃体炎 True ;小儿支气管炎
+腹泻 True 中等度热 True ; 发热 True  肠炎 True  腹痛 True  呕吐 True  大便粘液 True  出汗 True  退热 True  稀便 False  血便 False ;小儿腹泻
+鼻流涕 True 咳嗽 True 支气管炎 True ;;小儿支气管炎
+腹泻 True ;;小儿腹泻
+中等度热 True 发热 True ; 咳嗽 True  沙哑 True  呕吐 True  有痰 True ;上呼吸道感染
+大便粘液 True 肠鸣音 True 哭闹 True ; 水样便 True ;小儿腹泻
+稀便 True 水样便 True 腹泻 True ;;小儿腹泻
+腹泻 True 稀便 True ; 绿便 True  消化不良 True  肠炎 False ;小儿腹泻
+稀便 True 水样便 True ; 腹泻 True  绿便 True ;小儿腹泻
+咳嗽 True 粗糙呼吸音 True 出汗 True ; 有痰 True  上呼吸道感染 True  发热 False ;上呼吸道感染
+咽喉炎 True 支气管炎 True 鼻塞 True 咳嗽 True 鼻流涕 True ; 食欲不振 True  哭闹 True  喘息 False  发热 False  腹泻 False ;小儿支气管炎
+发热 True 高热 True 腹泻 True 绿便 True 大便粘液 True ;;小儿腹泻
+中等度热 True 厌食 True 恶心 True 呕吐 True ; 发热 True  四肢厥冷 True ;上呼吸道感染
+稀便 True ; 消化不良 True  腹泻 True ;小儿腹泻
+发热 True 咽喉不适 True 腹痛 True ;;上呼吸道感染
+干呕 True 大便酸臭 True ; 咳嗽 True  肺炎 True  痰鸣音 True  消化不良 True  有痰 True ;小儿支气管炎
+腹泻 True ; 稀便 True ;小儿腹泻
+咳嗽 True 干咳 True 有痰 True ; 普通感冒 True ;小儿支气管炎
+绿便 True 哭闹 True 贫血 True ; 腹泻 True  睡眠障碍 True  病毒感染 True ;小儿腹泻
+呕吐 True ; 腹痛 True  恶心 True ;小儿消化不良
+咽喉炎 True 反复发热 True 出汗 True 退热 True 中等度热 True ; 发热 True  普通感冒 True  咳嗽 True  四肢厥冷 True  有痰 True ;小儿支气管炎
+高热 True 退热 True 呕吐 True 腹泻 True ; 鼻流涕 True  普通感冒 True  发热 True  稀便 True  鼻塞 False  咳嗽 False  咳痰 False ;小儿腹泻
+普通感冒 True 咳嗽 True 口臭 True ; 鼻流涕 True  鼻塞 True  上呼吸道感染 True  有痰 True  喷嚏 False ;小儿支气管炎
+低热 True 咳嗽 True ; 发热 True  支气管炎 True  精神软 True  干咳 True  有痰 True  鼻流涕 False ;小儿支气管炎
+反复发热 True 咳嗽 True ; 发热 True  中等度热 True  有痰 True ;上呼吸道感染
+稀便 True ; 腹泻 True ;小儿腹泻
+普通感冒 True 鼻流涕 True 咳嗽 True 有痰 True ; 上呼吸道感染 True ;上呼吸道感染
+贫血 True 腹泻 True ; 绿便 True ;小儿腹泻
+喷嚏 True 鼻流涕 True 咳痰 True 低热 True ; 湿疹 True  急性气管支气管炎 True  发热 True  呕吐 True  痰鸣音 True  反复发热 True  退热 True  腹泻 False ;小儿支气管炎
+腹泻 True ; 腹胀 False ;小儿腹泻
+绿便 True ; 稀便 False  大便粘液 False  血便 False  鼻流涕 False  恶心 False  呕吐 False  咳嗽 False  发热 False ;小儿消化不良
+厌食 True 便秘 True ; 消化不良 True ;小儿消化不良
+痰鸣音 True 咳嗽 True 发热 True 有痰 True ; 喘息 False  高热 False ;小儿支气管炎
+中等度热 True 高热 True ; 发热 True  普通感冒 True  低热 True  咳嗽 False  鼻流涕 False  鼻塞 False  喷嚏 False ;上呼吸道感染
+鼻流涕 True 腹泻 True 食欲不振 True 咳嗽 True 喘息 True 哭闹 True ; 沙哑 True  气管炎 True  普通感冒 True  有痰 True  肺炎 False ;小儿支气管炎
+; 水样便 True  腹泻 True ;小儿腹泻
+鼻流涕 True 鼻塞 True 咳嗽 True 喷嚏 True 普通感冒 True ; 发热 False  腹泻 False  痰鸣音 False ;上呼吸道感染
+发热 True 咳嗽 True 干咳 True 退热 True 气管炎 True 有痰 True ; 中等度热 True ;小儿支气管炎
+高热 True 中等度热 True ; 细菌感染 True  发热 True  鼻流涕 True  咳嗽 True  有痰 True ;上呼吸道感染
+咳嗽 True 发热 True 中等度热 True ; 有痰 True ;上呼吸道感染
+; 呕吐 True  消化不良 True  干呕 True ;小儿消化不良
+呕吐 True ; 食欲不振 True  腹泻 True  稀便 True  水样便 True  屁 True  干呕 True  咳嗽 True  哭闹 False ;小儿消化不良
+咳嗽 True ; 鼻流涕 True ;小儿支气管炎
+; 水样便 True  稀便 True  发热 True ;小儿消化不良
+腹泻 True 绿便 True 消化不良 True 低热 True 水样便 True 腹胀 True ; 普通感冒 True  喷嚏 True  鼻塞 False  鼻流涕 False  咳嗽 False ;小儿消化不良
+; 稀便 True  消化不良 True  发热 True  腹泻 True ;小儿消化不良
+便秘 True ; 血便 True  消化不良 True  大便酸臭 False ;小儿消化不良
+腹泻 True 稀便 True 中等度热 True ; 发热 True  普通感冒 True  呕吐 True  有痰 True  鼻流涕 True  水样便 True  血便 True ;小儿腹泻
+腹泻 True 稀便 True 水样便 True ; 消化不良 True ;小儿腹泻
+干呕 True ;;小儿消化不良
+腹泻 True ; 稀便 True  大便粘液 True  尿量减少 False ;小儿消化不良
+腹泻 True 稀便 True 水样便 True 消化不良 True ; 绿便 False ;小儿腹泻
+发热 True 腹泻 True ; 低热 True  中等度热 True  稀便 True  绿便 True  普通感冒 True  鼻流涕 True ;小儿消化不良
+腹泻 True ; 发热 False  咳嗽 False  鼻流涕 False ;小儿腹泻
+发热 True 咳嗽 True ; 高热 True  普通感冒 True  精神软 True  退热 True  腹痛 True  有痰 True  呕吐 False ;小儿支气管炎
+屁 True ; 稀便 True  水样便 True  腹泻 True  发热 False ;小儿消化不良
+发热 True 嗜睡 True ; 咳嗽 True  睡眠障碍 True  退热 True  精神软 True  反复发热 True  支气管炎 True  食欲不振 True  呕吐 False ;小儿支气管炎
+腹泻 True ; 水样便 True  消化不良 True  腹胀 True  呕吐 True ;小儿腹泻
+稀便 True ; 腹泻 True ;小儿消化不良
+咳嗽 True ;;小儿支气管炎
+咳嗽 True 呕吐 True 哭闹 True ; 鼻流涕 True  普通感冒 True  肺炎 True  发热 False ;上呼吸道感染
+腹泻 True 血便 True ; 发热 False  呕吐 False ;小儿腹泻
+发热 True 腹泻 True ; 稀便 True  厌食 True  腹胀 True  呕吐 True  鼻流涕 True  咳嗽 True ;小儿腹泻
+高热 True 退热 True 腹泻 True ; 稀便 True  咳嗽 True  干呕 True  血便 False  呕吐 False ;小儿腹泻
+消化不良 True 腹泻 True 稀便 True ; 水样便 True ;小儿消化不良
+咳嗽 True 有痰 True ; 食欲不振 True  发热 False ;小儿支气管炎
+普通感冒 True 鼻流涕 True ; 发热 False ;上呼吸道感染
+发热 True 退热 True 中等度热 True ; 普通感冒 True ;上呼吸道感染
+出汗 True ; 鼻塞 True  稀便 True  腹泻 True  肠炎 True  鼻流涕 False ;小儿腹泻
+腹泻 True ;;小儿腹泻
+腹泻 True ; 稀便 True  水样便 True  呕吐 True  绿便 True  大便粘液 False  发热 False ;小儿腹泻
+发热 True 低热 True ; 四肢厥冷 False ;上呼吸道感染
+普通感冒 True 发热 True 呕吐 True 腹泻 True 稀便 True 厌食 True ; 精神软 True ;小儿腹泻
+腹泻 True ; 稀便 True  消化不良 True  呕吐 False ;小儿消化不良
+咳嗽 True 发热 True 有痰 True ; 反复发热 True  鼻流涕 True  腹泻 True  中等度热 True ;小儿支气管炎
+咳嗽 True 急性气管支气管炎 True 支原体感染 True 咳痰 True ; 鼻流涕 True ;小儿支气管炎
+咳嗽 True 有痰 True ; 支气管炎 True  支原体感染 False ;小儿支气管炎
+低热 True 咳嗽 True 沙哑 True 咽喉不适 True 有痰 True ; 发热 True  支气管肺炎 True  喘息 False ;小儿支气管炎
