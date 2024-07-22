@@ -14,7 +14,7 @@ parser.add_argument("--simulation_epoch", dest="simulation_epoch", type=int, def
 parser.add_argument("--batch_size", dest="batch_size", type=int, default=400, help="批次大小")  # 400 1024 1024
 parser.add_argument("--learning_rate", dest="learning_rate", type=float, default=5e-5, help="学习率")  # 5e-5 5e-5 5e-5
 parser.add_argument("--gamma", dest="gamma", type=float, default=0.8, help="强化学习贪婪概率")
-parser.add_argument("--reduce", dest="reduce", type=float, default=0.92, help="模型学习率衰减")  # 0.88 0.985 0.998
+parser.add_argument("--reduce", dest="reduce", type=float, default=0.92, help="学习率衰减")  # 0.88 0.985 0.998
 parser.add_argument("--replay_pool_size", dest="replay_pool_size", type=int, default=50000, help="经验回放池大小")  # 150000 500000 500000
 parser.add_argument("--max_turn", dest="max_turn", type=int, default=40, help="最大对话轮次")
 parser.add_argument("--test_max_turn", dest="test_max_turn", type=int, default=10, help="最大对话轮次")
@@ -46,7 +46,7 @@ def setup_all(seed):
 
 
 def run():
-    setup_all(233)  # 888 233 3407
+    setup_all(43)  # 888 233 3407
     steward = RunningSteward(parameter=parameter)
     steward.warm_up()
     steward.train()

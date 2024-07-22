@@ -181,11 +181,6 @@ class RunningSteward(object):
                     self.disease_classifier_test_pool = copy.deepcopy(self.disease_classifier_test_pool_tmp)
                     self.symptom_counter = 0
                     self.acc_hist = 0
-                else:
-                    self.symptom_counter += 1
-                    if self.symptom_counter > 15:
-                        self.dialogue_manager.agent.rollback_model()
-                        self.symptom_counter = 0
 
             res = {'mode': mode,
                    "strategy": greedy_strategy,

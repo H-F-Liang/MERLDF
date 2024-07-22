@@ -9,50 +9,7 @@ import torch.optim
 import torch
 import torch.nn.functional as F
 
-'''
-dataset dxy
-seed 666
-mask .1 .0
-lr 1e-3
-epoch 2000
-batch_size 16
-hide_size 1000
-rollback 10
-step 5 0.999 / 10 0.999
-loss lambda 1.0
-res 0.885 0.865
-'''
 
-'''
-dataset muzhi
-seed 666
-mask .1 .0
-lr 1e-3
-epoch 2000
-batch_size 16
-hide_size 5000
-rollback 10
-step 20 0.999
-loss lambda 1.0
-res 0.761 0.754
-'''
-
-'''
-dataset mz10
-seed 666
-mask .0 .0
-lr 1e-3
-epoch 4000
-batch_size 1024
-hide_size 1000
-rollback 15
-step 10 0.999
-loss lambda 0.2
-res 0.661 0.654
-'''
-
-
-# 0.761
 class Net(nn.Module):
     def __init__(self, input_size, hide_size, output_size):
         super(Net, self).__init__()
